@@ -11,4 +11,5 @@ This add-on allows user to keep track of all of the websites they visited while 
 
 User can access the history by clicking on add-on icon. On the add-on page user can also choose to export all history in a .csv file
 
-- [ ] Gantt diagram for visited websites
+# In progress
+- [ ] Gantt chart for visited websites
